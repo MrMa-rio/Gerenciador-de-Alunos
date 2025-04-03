@@ -1,5 +1,8 @@
 package br.com.myprojects
 
+import br.com.myprojects.views.GenericView
+
 fun main() {
-    //TODO: Menu Apresentacao
+    val genericView = GenericView();
+    genericView.Menu()
 }
