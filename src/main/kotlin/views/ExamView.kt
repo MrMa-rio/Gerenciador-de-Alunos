@@ -1,6 +1,6 @@
 package br.com.myprojects.views
 
-import br.com.myprojects.core.usecase.ClassRoom.ExamUsecase
+import br.com.myprojects.core.usecase.exam.ExamUsecase
 import br.com.myprojects.views.dto.ExamDTO
 
 class ExamView() {

@@ -1,8 +1,5 @@
 package br.com.myprojects.views
 
-import br.com.myprojects.core.usecase.ClassRoom.ExamUsecase
-import java.sql.Time
-
 class GenericView {
 
     fun Menu () {
